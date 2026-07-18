@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Paint 11
+Comment=Windows 11-style paint clone with layers
+Exec=/home/gerret/Schreibtisch/paint11
+Icon=accessories-painting
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;
+MimeType=image/png;image/jpeg;image/bmp;image/gif;image/webp;image/tiff;
